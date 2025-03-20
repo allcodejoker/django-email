@@ -1,0 +1,35 @@
+@media (min-width: 768px) {
+    .newsletter-p {
+      color: white;
+      font-size: 1.3rem;
+      font-family: sans-serif;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .newsletter-h1 {
+      font-weight: 800;
+      font-family: sans-serif;
+      font-size: 3rem;
+    }
+  }
+  
+  .newsletter-p {
+    font-family: sans-serif;
+  }
+  
+  .newsletter-h1 {
+    font-family: sans-serif;
+    font-weight: 800;
+  }
+  
+  @media (max-width: 767px) {
+    .newsletter-btn {
+      width: 100%;
+    }
+  }
+  
+  .input-data {
+    margin-top: 0.5rem;
+  }
+  
