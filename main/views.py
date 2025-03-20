@@ -11,7 +11,7 @@ def index(request):
         send_mail(
             f"Hello, {your_name}",
             "Hello Inside a message",
-            "allcodejokernewsletter@gmail.com",
+            "emailfromsettings@gmail.com",
             [your_email],
             fail_silently=False
         )
